@@ -1,63 +1,60 @@
-<h1 align="center">👋 Hey, I'm Abhishek</h1>
-
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
+  <img src="https://github.com/Abhishekh3007/Abhishekh3007/blob/main/profile-header.png" alt="Hi, I'm Abhishek" width="100%">
 </p>
 
 ---
 
-## ✨ About Me  
-
-💡 *Engineer of ideas, architect of pixels, and trainer of AI.*  
-🚀 I build fast, beautiful, and intelligent apps that feel alive.  
-🎯 Always experimenting with **T3 Stack, AI/ML, and immersive UI/UX**.  
-🌎 Turning ideas into impactful products, one commit at a time.  
+## 👋 Hey, I'm Abhishek!  
+🚀 Full Stack Developer passionate about building interactive, beautiful, and scalable applications.  
+From AI-powered tools to visually stunning websites, I love experimenting with **modern frameworks and creative UI/UX**.
 
 ---
 
-## 🚀 Featured Projects  
-
+## 🛠 Tech Stack
 <p align="center">
-  <a href="https://github.com/Abhishekh3007/T3-Gallery">
-    <img src="https://via.placeholder.com/250x150.png?text=T3+Gallery" alt="T3 Gallery" />
-  </a>
-  <a href="https://github.com/Abhishekh3007/Keep-AI-Notes">
-    <img src="https://via.placeholder.com/250x150.png?text=Keep+AI+Notes" alt="Keep AI Notes" />
-  </a>
-  <a href="https://github.com/Abhishekh3007/Sonnas-Air-Menu">
-    <img src="https://via.placeholder.com/250x150.png?text=Sonnas+Air+Menu" alt="Sonnas Air Menu" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🛠 Tech Stack  
-
+## 💡 Featured Projects  
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">T3 Gallery</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/T3%20Stack-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Abhishekh3007/T3-Gallery" target="_blank">
+<img src="https://github.com/Abhishekh3007/Abhishekh3007/blob/main/projects/t3-gallery.png" width="100%" alt="T3 Gallery"/>
+</a>
+</p>
+<p align="center">A modern image gallery built with T3 stack, infinite scroll, and smooth animations.</p>
+</td>
+
+<td width="50%">
+<h3 align="center">Keep AI Notes</h3>
+<p align="center">
+<a href="https://github.com/Abhishekh3007/Keep-AI-Notes" target="_blank">
+<img src="https://github.com/Abhishekh3007/Abhishekh3007/blob/main/projects/keep-ai-notes.png" width="100%" alt="Keep AI Notes"/>
+</a>
+</p>
+<p align="center">An AI-assisted note-taking app with semantic search and beautiful UI.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## ✨ Fun Visual
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" alt="Coding Animation" />
 </p>
 
 ---
 
-## 🎨 Fun Touch  
-
+## 📫 Let's Connect!
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<a href="https://www.linkedin.com/in/abhishek" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://portfolio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=web" /></a>
 </p>
-
----
-
-⭐ *"I build beautiful, fast, and smart things for the web — and sometimes, the web builds them back."*
