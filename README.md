@@ -1,60 +1,51 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://github.com/Abhishekh3007/Abhishekh3007/blob/main/profile-header.png" alt="Hi, I'm Abhishek" width="100%">
-</p>
+<!-- HERO SECTION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+  <h1>Hey there, I'm Abhishek! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
+  <p><em>Full-Stack Developer • T3 Stack Explorer • Creator of Cool Things</em></p>
+
+  <!-- Funny relevant GIFs -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding cat">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Funny typing">
+</div>
 
 ---
 
-## 👋 Hey, I'm Abhishek!  
-🚀 Full Stack Developer passionate about building interactive, beautiful, and scalable applications.  
-From AI-powered tools to visually stunning websites, I love experimenting with **modern frameworks and creative UI/UX**.
+<!-- ABOUT ME -->
+### 🚀 About Me
+- 💻 Passionate about building **fun + functional** digital experiences  
+- 🛠 Experienced with **Next.js, Node.js, Express, MongoDB, T3 stack, Supabase**  
+- 🎯 Always learning, always improving  
+- 😄 Fun fact: My debug process involves coffee, memes, and more coffee ☕
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,github,vscode&theme=dark" />
-</p>
+<!-- TECH STACK -->
+### 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,supabase" />
+</div>
 
 ---
 
-## 💡 Featured Projects  
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">T3 Gallery</h3>
-<p align="center">
-<a href="https://github.com/Abhishekh3007/T3-Gallery" target="_blank">
-<img src="https://github.com/Abhishekh3007/Abhishekh3007/blob/main/projects/t3-gallery.png" width="100%" alt="T3 Gallery"/>
-</a>
-</p>
-<p align="center">A modern image gallery built with T3 stack, infinite scroll, and smooth animations.</p>
-</td>
+<!-- CREATIVE SECTION -->
+### 🎨 My GitHub Fun Corner
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  
+  <br>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Work in progress">
+  <p><em>"Coding is 10% writing code and 90% figuring out why it’s not working"</em></p>
 
-<td width="50%">
-<h3 align="center">Keep AI Notes</h3>
-<p align="center">
-<a href="https://github.com/Abhishekh3007/Keep-AI-Notes" target="_blank">
-<img src="https://github.com/Abhishekh3007/Abhishekh3007/blob/main/projects/keep-ai-notes.png" width="100%" alt="Keep AI Notes"/>
-</a>
-</p>
-<p align="center">An AI-assisted note-taking app with semantic search and beautiful UI.</p>
-</td>
-</tr>
-</table>
+  <br>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="Celebrating success">
+</div>
 
 ---
 
-## ✨ Fun Visual
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" alt="Coding Animation" />
-</p>
-
----
-
-## 📫 Let's Connect!
-<p align="center">
-<a href="https://www.linkedin.com/in/abhishek" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://portfolio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=web" /></a>
-</p>
+<!-- CONNECT -->
+### 📫 Connect with Me
+<div align="center">
+  <a href="https://github.com/Abhishekh3007"><img src="https://img.shields.io/badge/GitHub-Abhishekh3007-black?logo=github"></a>
+  <a href="https://linkedin.com/in/abhishek"><img src="https://img.shields.io/badge/LinkedIn-Abhishek-blue?logo=linkedin"></a>
+</div>
