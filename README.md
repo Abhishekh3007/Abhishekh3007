@@ -1,22 +1,27 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-  <!-- Animated wave / coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation">
+  <!-- Animated emoji wave -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
 
-  <!-- Gradient animated name -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Abhishek+👨‍💻;Full+Stack+Developer+⚡;T3+Stack+Explorer+🧩" alt="Typing SVG" />
-  </h1>
+  <!-- Main Title -->
+  <h1 style="font-size: 2.8em;">Hey there, I'm <span style="color:#00BFFF;">Abhishek 👨‍💻</span></h1>
+  
+  <!-- Tagline -->
+  <h3><em>Full-Stack Developer ⚡ T3 Stack Wizard 🧠 Turning Coffee into Code ☕</em></h3>
 
-  <!-- Sub-caption / witty tagline -->
-  <p><em>"Turning coffee ☕ into code 💻 and occasionally into chaos 😎"</em></p>
+  <!-- Fun GIFs -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+  <br>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Typing animation">
+
+  <!-- Sub-caption -->
+  <p><em>"I don’t always test my code, but when I do... I do it in production." 😎</em></p>
 
   <!-- Profile Views -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile+Views&color=brightgreen" alt="profile views" />
 </div>
-
 
 ---
 
