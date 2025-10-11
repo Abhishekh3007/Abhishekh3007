@@ -1,29 +1,22 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-  <!-- Animated Wave Emoji -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
+  <!-- Animated wave / coding GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation">
 
-  <!-- Glowing Gradient Name -->
+  <!-- Gradient animated name -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Abhishek+👨‍💻;Full+Stack+Developer+⚡;T3+Stack+Explorer+🧩;Creator+of+Cool+Things+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Abhishek+👨‍💻;Full+Stack+Developer+⚡;T3+Stack+Explorer+🧩" alt="Typing SVG" />
   </h1>
 
-  <!-- Animated gradient divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=90&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
-
-  <!-- Fun GIFs -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation">
-  <br>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Typing animation">
-
-  <!-- Sub-caption -->
-  <p><em>"I don’t always test my code, but when I do... I do it in production." 😎</em></p>
+  <!-- Sub-caption / witty tagline -->
+  <p><em>"Turning coffee ☕ into code 💻 and occasionally into chaos 😎"</em></p>
 
   <!-- Profile Views -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile+Views&color=brightgreen" alt="profile views" />
 </div>
+
 
 ---
 
