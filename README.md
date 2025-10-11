@@ -1,16 +1,24 @@
+<!-- HERO SECTION -->
+
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Abhishek+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer+%E2%9A%A1;T3+Stack+Wizard+%F0%9F%A7%A0;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG">
-  </a>
-  
-  <h3><em>Full-Stack Developer ⚡ T3 Stack Wizard 🧠 Turning Coffee into Code ☕</em></h3>
+<!-- Main Banner GIF -->
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
-  <br>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Typing animation">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/1C2n2hDbD2S_kZ2M0s/giphy.gif" width="600" alt="Code Banner Animation">
 
-  <p><em>"I don’t always test my code, but when I do... I do it in production." 😎</em></p>
+<!-- Main Title -->
+
+<h1 style="font-size: 2.8em;">Hey there, I'm <span style="color:#00BFFF;">Abhishek 👨‍💻</span></h1>
+
+<!-- Tagline -->
+
+<h3><em>Full-Stack Developer ⚡ T3 Stack Wizard 🧠 Turning Coffee into Code ☕</em></h3>
+
+<!-- Sub-caption -->
+
+<p><em>"I don’t always test my code, but when I do... I do it in production." 😎</em></p>
+
+<!-- Profile Views -->
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile+Views&color=brightgreen" alt="profile views" />
