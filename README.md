@@ -19,9 +19,9 @@
 
 - 💡 Crafting **fun + functional** digital experiences that users actually enjoy  
 - 🛠 Skilled in **Next.js • Node.js • Express • MongoDB • Supabase • T3 Stack**  
-- 💬 Love debugging with coffee, memes, and a hint of existential dread ☕😅  
-- 🧠 Currently exploring **AI integrations & 3D experiences** in web apps  
-- 🎮 Fun fact: My side projects are 50% innovation, 50% caffeine  
+- ☕ Debugging fuel: **coffee + memes + more coffee**  
+- 🧠 Currently exploring **AI integrations & 3D UI** in web apps  
+- 🎮 Fun fact: I build cooler side projects than my main ones 😅  
 
 ---
 
@@ -72,7 +72,7 @@
 <div align="center">
   <a href="https://github.com/Abhishekh3007"><img src="https://img.shields.io/badge/GitHub-Abhishekh3007-black?logo=github"></a>
   <a href="https://www.linkedin.com/in/abhishek-wali-0628a524b/"><img src="https://img.shields.io/badge/LinkedIn-Abhishek-blue?logo=linkedin"></a>
-  <a href="mailto:abhishekh3007@gmail.com"><img src="https://img.shields.io/badge/Email-Abhishekh3007-red?logo=gmail"></a>
+  <a href="mailto:waliabhishek120@gmail.com"><img src="https://img.shields.io/badge/Email-Abhishekh3007-red?logo=gmail"></a>
 </div>
 
 ---
