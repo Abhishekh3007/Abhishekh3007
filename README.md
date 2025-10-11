@@ -1,17 +1,19 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-  <!-- Animated emoji wave -->
+  <!-- Animated Wave Emoji -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
 
-  <!-- Main Title -->
-  <h1 style="font-size: 2.8em;">Hey there, I'm <span style="color:#00BFFF;">Abhishek 👨‍💻</span></h1>
-  
-  <!-- Tagline -->
-  <h3><em>Full-Stack Developer ⚡ T3 Stack Wizard 🧠 Turning Coffee into Code ☕</em></h3>
+  <!-- Glowing Gradient Name -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Abhishek+👨‍💻;Full+Stack+Developer+⚡;T3+Stack+Explorer+🧩;Creator+of+Cool+Things+🚀" alt="Typing SVG" />
+  </h1>
+
+  <!-- Animated gradient divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=90&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
   <!-- Fun GIFs -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation">
   <br>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Typing animation">
 
