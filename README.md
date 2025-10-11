@@ -1,13 +1,25 @@
 <!-- HERO SECTION -->
 <div align="center">
+
+  <!-- Animated emoji wave -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
-  <h1>Hey there, I'm <span style="color:#00BFFF;">Abhishek 👨‍💻</span></h1>
-  <h3><em>Full-Stack Developer • T3 Stack Enthusiast • Builder of Beautiful Chaos</em></h3>
 
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Coding cat">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Typing animation">
+  <!-- Main Title -->
+  <h1 style="font-size: 2.8em;">Hey there, I'm <span style="color:#00BFFF;">Abhishek 👨‍💻</span></h1>
+  
+  <!-- Tagline -->
+  <h3><em>Full-Stack Developer ⚡ T3 Stack Wizard 🧠 Turning Coffee into Code ☕</em></h3>
 
-  <br><br>
+  <!-- Fun GIFs -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+  <br>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Typing animation">
+
+  <!-- Sub-caption -->
+  <p><em>"I don’t always test my code, but when I do... I do it in production." 😎</em></p>
+
+  <!-- Profile Views -->
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile+Views&color=brightgreen" alt="profile views" />
 </div>
 
