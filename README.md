@@ -65,7 +65,7 @@
 ```javascript
 const abhishek = {
     code: ["JavaScript", "TypeScript", "Python", "SQL"],
-    askMeAbout: ["web dev", "tech", "AI/ML", "medical imaging"],
+    askMeAbout: ["web dev", "tech", "AI/ML", "backend systems"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -78,7 +78,7 @@ const abhishek = {
         cloud: ["AWS Lambda", "Vercel", "Railway"],
         misc: ["Docker", "Git", "Postman"]
     },
-    currentFocus: "Building AI-powered healthcare solutions 🎥",
+    currentFocus: Crafting scalable enterprise applications 💻
     funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
