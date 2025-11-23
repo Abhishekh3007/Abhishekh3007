@@ -58,17 +58,75 @@
 
 ---
 
-## 🔥 Featured Projects
+## ✨ What I'm Up To
 
 <div align="center">
 
-### 🏥 Vision-Worker Microservice
-**Medical image analysis powered by AI**  
-`Computer Vision` `AWS Lambda` `Quality Detection` `Edge Analysis`
+```javascript
+const abhishek = {
+    code: ["JavaScript", "TypeScript", "Python", "SQL"],
+    askMeAbout: ["web dev", "tech", "AI/ML", "medical imaging"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB", "PostgreSQL", "Supabase"],
+        cloud: ["AWS Lambda", "Vercel", "Railway"],
+        misc: ["Docker", "Git", "Postman"]
+    },
+    currentFocus: "Building AI-powered healthcare solutions 🎥",
+    funFact: "I debug with console.log() and I'm not ashamed"
+};
+```
 
-### 🌐 Full-Stack Web Applications
-**Built with T3 Stack & modern best practices**  
-`Next.js` `tRPC` `Prisma` `NextAuth` `TailwindCSS`
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Vision Worker
+**AI-Powered Medical Image Analysis**
+
+- 🧠 Quality detection & edge analysis
+- 📊 Automated feature extraction  
+- ⚙️ Serverless architecture on AWS Lambda
+- 🚀 Processing medical images at scale
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack Projects
+**Modern Web Applications**
+
+- ⚡ Built with T3 Stack (Next.js + tRPC + Prisma)
+- 🎨 Pixel-perfect UI/UX designs
+- 🔒 Authentication & authorization
+- 📊 Real-time data synchronization
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
