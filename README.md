@@ -1,13 +1,30 @@
 <div align="center">
 
-# 👋 Hey there, I'm Abhishek
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+%E2%9A%A1;Building+with+T3+Stack+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Hadimani&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Backend%20Specialist%20%7C%20Problem%20Solver&descSize=18&descAlignY=51" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+scalable+web+applications+%F0%9F%9A%80;Passionate+about+clean+code+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile+Views&color=0e75b6&style=flat)
+<br/>
 
+<!-- Social Badges -->
+<p>
+  <a href="https://github.com/Abhishekh3007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhishekh3007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<!-- Animated Banner -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+</div>
 </div>
 
 ---
