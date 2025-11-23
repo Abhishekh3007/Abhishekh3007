@@ -17,7 +17,6 @@
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 - 💻 **Full-Stack Developer** passionate about crafting seamless digital experiences
-- 🎓 **BCA Graduate** from Gogte College of Commerce, Belgaum (CGPA: 8.5)
 - 🛠️ Specializing in **Next.js, Node.js, Express, MongoDB, Supabase & T3 Stack**
 - 🧠 Currently exploring **AI integrations & medical image analysis**
 - ☕ Powered by **coffee, curiosity & clean code**
@@ -75,14 +74,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekh3007&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekh3007&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekh3007&theme=react-dark&hide_border=true" width="100%"/>
+![Snake animation](https://raw.githubusercontent.com/Abhishekh3007/Abhishekh3007/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
