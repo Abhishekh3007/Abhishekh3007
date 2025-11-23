@@ -18,7 +18,7 @@
 
 - 💻 **Full-Stack Developer** passionate about crafting seamless digital experiences
 - 🛠️ Specializing in **Next.js, Node.js, Express, MongoDB, Supabase & T3 Stack**
-- 🧠 Currently exploring **AI integrations & medical image analysis**
+- 🧠 Currently exploring **AI/ML applications & healthcare technology**
 - ☕ Powered by **coffee, curiosity & clean code**
 - 🎮 Fun fact: My side projects are cooler than my main ones 😅
 
@@ -95,14 +95,14 @@ const abhishek = {
 <tr>
 <td width="50%">
 
-### 🔬 Vision Worker
-**AI-Powered Medical Image Analysis**
+### 💻 Backend Development
+**Enterprise-Grade Systems**
 
-- 🧠 Quality detection & edge analysis
-- 📊 Automated feature extraction  
-- ⚙️ Serverless architecture on AWS Lambda
-- 🚀 Processing medical images at scale
 
+- 🚀 Building scalable microservice architectures
+- 🛡️ Implementing secure authentication & authorization
+- ⚡ API optimization & performance tuning
+- 📊 Data processing pipelines & automation
 </td>
 <td width="50%">
 
