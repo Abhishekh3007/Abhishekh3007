@@ -4,21 +4,27 @@
 
 <div align="center">
 
-<svg width="520" height="120" viewBox="0 0 520 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="520" height="120" viewBox="0 0 520 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abhishek Wali">
   <defs>
-    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="gradText" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#6a11cb"/>
       <stop offset="100%" stop-color="#2575fc"/>
     </linearGradient>
   </defs>
-  <text x="50%" y="55%" text-anchor="middle"
-        fill="url(#g1)"
+
+  <text x="50%" y="52%"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="url(#gradText)"
         font-size="42"
         font-family="monospace"
         font-weight="700">
     Abhishek Wali
   </text>
-  <text x="50%" y="80%" text-anchor="middle"
+
+  <text x="50%" y="78%"
+        text-anchor="middle"
+        dominant-baseline="middle"
         fill="#9aa4b2"
         font-size="14"
         font-family="monospace">
