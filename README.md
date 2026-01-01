@@ -1,74 +1,140 @@
-<h1 align="center">Abhishek Wali</h1>
-<p align="center"><strong>Software Engineer · Backend-Oriented · Full-Stack Capable</strong></p>
-<p align="center"><sub>Designing systems that are predictable, scalable, and built to last.</sub></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile%20Views&color=0e75b6&style=flat" /></p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Wali&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend-Oriented%20Software%20Engineer%20•%20System%20Thinker&descAlignY=65" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</p>
+</div>
 
 ---
 
-## ░░ Profile
-I am a backend-focused software engineer who thinks in terms of systems, boundaries, and trade-offs. My work emphasizes clarity, correctness, and long-term maintainability over short-term wins. I prefer fewer abstractions with stronger guarantees, boring solutions that work consistently, and code that explains itself without excessive commentary.
+<div align="center">
 
-> Engineering is not about showing intelligence — it’s about removing ambiguity.
+### 🧠 Engineering with Depth, Not Noise
+<sub>I design and build software systems that are predictable, scalable, and built to survive real-world complexity.</sub>
+
+</div>
 
 ---
 
-## ░░ Technical Stack (Depth over Breadth)
+<div align="center">
+
+```txt
+┌──────────────────────────────────────────┐
+│  ROLE        : Software Engineer          │
+│  FOCUS       : Backend & System Design    │
+│  APPROACH    : Clarity > Cleverness       │
+│  MOTTO       : Build once. Maintain long. │
+└──────────────────────────────────────────┘
+````
+
+</div>
+
+---
+
+## ░░ About Me
+
+I am a backend-focused engineer with full-stack capability, comfortable working across **data models, APIs, and system boundaries**.
+I value software that remains **readable under pressure**, **correct under scale**, and **maintainable over time**.
+
+* 🎓 MCA Graduate
+* ⚙️ Backend-first mindset with end-to-end ownership
+* 🧱 Strong interest in architecture & trade-offs
+* 🚀 Applying AI/ML only where it adds real value
+* ☕ Calm, methodical, detail-oriented
+
+> *Engineering maturity is knowing what not to build.*
+
+---
+
+## ░░ Tech Stack (Used with Intent)
 
 ### Languages
+
 JavaScript · TypeScript · Python · SQL
 
-### Application Layer
+### Frontend
+
 React · Next.js
 
-### Backend & APIs
-Node.js · Express · REST Architecture
+### Backend
+
+Node.js · Express · REST APIs
 
 ### Data & Infrastructure
+
 MongoDB · PostgreSQL · Supabase · AWS · Vercel
 
 ### Engineering Tools
-Git · Docker · Postman · Linux
+
+Git · Docker · Linux · Postman
 
 ---
 
-## ░░ How I Think About Software
-Problem → Constraints → System Design → Data Model → API Contracts → Implementation
+## ░░ System Thinking
 
-I focus on *why* before *how*, and trade-offs before tools.
+```txt
+Problem
+  ↓
+Constraints
+  ↓
+System Design
+  ↓
+Data Model
+  ↓
+API Contracts
+  ↓
+Implementation
+```
+
+I optimize for **long-term stability**, not short-term velocity.
 
 ---
 
 ## ░░ What I Build
-▸ Secure authentication and RBAC systems  
-▸ Backend services with clear, stable contracts  
-▸ Scalable and normalized data models  
-▸ Performance-aware APIs  
-▸ Systems that fail safely and visibly  
 
-I enjoy working close to request lifecycles, data flow and integrity, failure modes, and long-term system behavior.
+▸ Secure authentication & RBAC systems
+▸ Backend services with explicit contracts
+▸ Scalable, normalized data models
+▸ Performance-aware APIs
+▸ Systems that fail safely and observably
+
+I enjoy working close to request lifecycles, data consistency, failure scenarios, and operational behavior.
 
 ---
 
 ## ░░ Current Direction
-Reduce complexity → Increase reliability → Ship with confidence
 
-Currently strengthening backend architecture fundamentals, system design thinking, and real-world application of AI/ML beyond demos.
+```txt
+▣ Reduce Complexity
+▣ Increase Reliability
+▣ Ship with Confidence
+```
+
+Currently strengthening backend architecture fundamentals, system design thinking, and practical AI/ML integration beyond demos.
 
 ---
 
 ## ░░ Engineering Principles
-Simple > Clever  
-Correct > Fast  
-Explicit > Implicit  
-Maintainable > Impressive  
+
+```txt
+Simple        > Clever
+Correct       > Fast
+Explicit      > Implicit
+Maintainable  > Impressive
+```
 
 ---
 
 ## ░░ Connect
-GitHub: https://github.com/Abhishekh3007  
-LinkedIn: https://www.linkedin.com/in/abhishek-wali-0628b027b/  
-Email: waliabhishek120@gmail.com  
+
+GitHub: [https://github.com/Abhishekh3007](https://github.com/Abhishekh3007)
+LinkedIn: [https://www.linkedin.com/in/abhishek-wali-0628b027b/](https://www.linkedin.com/in/abhishek-wali-0628b027b/)
+Email: [waliabhishek120@gmail.com](mailto:waliabhishek120@gmail.com)
 
 ---
 
-<p align="center"><sub>Build software that still makes sense six months later.</sub></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=120&section=footer&text=Build%20Software%20That%20Lasts&fontSize=24&fontColor=ffffff"/>
+</div>
+```
