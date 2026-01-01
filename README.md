@@ -1,132 +1,114 @@
-<!-- ===================================================== -->
-<!--                   README.md                          -->
-<!-- ===================================================== -->
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Wali&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend-Oriented%20Software%20Engineer%20•%20System%20Thinker&descAlignY=65" />
+  
+  <br />
 
+  <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</div>
+
+---
+
+<!-- ===================== TAGLINE ===================== -->
 <div align="center">
 
-<svg width="520" height="120" viewBox="0 0 520 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abhishek Wali">
-  <defs>
-    <linearGradient id="gradText" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6a11cb"/>
-      <stop offset="100%" stop-color="#2575fc"/>
-    </linearGradient>
-  </defs>
+### 🧠 Engineering with Depth, Not Noise
 
-  <text x="50%" y="52%"
-        text-anchor="middle"
-        dominant-baseline="middle"
-        fill="url(#gradText)"
-        font-size="42"
-        font-family="monospace"
-        font-weight="700">
-    Abhishek Wali
-  </text>
-
-  <text x="50%" y="78%"
-        text-anchor="middle"
-        dominant-baseline="middle"
-        fill="#9aa4b2"
-        font-size="14"
-        font-family="monospace">
-    Backend-Oriented Software Engineer · System Thinker
-  </text>
-</svg>
+<sub>
+I design and build software systems that are predictable, scalable, and built to survive real-world complexity.
+</sub>
 
 </div>
 
 ---
 
-<div align="center">
-
-> **I design software the way engineers read it — slowly, clearly, and with intent.**
-
-</div>
-
----
-
-## ◼ Profile
-
-I am a backend-focused software engineer with full-stack capability, oriented toward **systems, data flow, and long-term correctness**.  
-I prioritize **clarity over cleverness** and build software meant to survive real users, real load, and real time.
-
-I am comfortable operating at:
-- the API boundary  
-- the data layer  
-- the system-design level  
-
-> *Engineering maturity is knowing what to leave out.*
-
----
-
-## ◼ Technical Foundation
-
+<!-- ===================== PROFILE CARD ===================== -->
 <div align="center">
 
 <pre>
-Languages        : JavaScript · TypeScript · Python · SQL
-Frontend         : React · Next.js
-Backend          : Node.js · Express · REST APIs
-Data             : MongoDB · PostgreSQL · Supabase
-Infrastructure   : AWS · Vercel
-Tooling          : Git · Docker · Linux · Postman
+┌──────────────────────────────────────────┐
+│  ROLE        : Software Engineer          │
+│  FOCUS       : Backend & System Design    │
+│  APPROACH    : Clarity > Cleverness       │
+│  MOTTO       : Build once. Maintain long. │
+└──────────────────────────────────────────┘
 </pre>
 
 </div>
 
 ---
 
-## ◼ System Thinking (How I Work)
+## ░░ About Me
+
+I am a backend-focused engineer with full-stack capability, comfortable working across **data models, APIs, and system boundaries**.  
+I value software that remains **readable under pressure**, **correct under scale**, and **maintainable over time**.
+
+- 🎓 MCA Graduate  
+- ⚙️ Backend-first mindset with end-to-end ownership  
+- 🧱 Strong interest in architecture & trade-offs  
+- 🚀 Applying AI/ML only where it adds real value  
+- ☕ Calm, methodical, detail-oriented  
+
+> *Engineering maturity is knowing what not to build.*
+
+---
+
+## ░░ Tech Stack (Used with Intent)
+
+### Languages
+`JavaScript` · `TypeScript` · `Python` · `SQL`
+
+### Frontend
+`React` · `Next.js`
+
+### Backend
+`Node.js` · `Express` · `REST APIs`
+
+### Data & Infrastructure
+`MongoDB` · `PostgreSQL` · `Supabase` · `AWS` · `Vercel`
+
+### Engineering Tools
+`Git` · `Docker` · `Linux` · `Postman`
+
+---
+
+## ░░ System Thinking
 
 <div align="center">
 
 <pre>
-┌───────────────┐
-│   Problem     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ Constraints   │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ System Design │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ Data Model    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ API Contracts │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ Implementation│
-└───────────────┘
+Problem
+  ↓
+Constraints
+  ↓
+System Design
+  ↓
+Data Model
+  ↓
+API Contracts
+  ↓
+Implementation
 </pre>
 
 </div>
 
-I optimize for **understanding first**, performance second.
+I optimize for **long-term stability**, not short-term velocity.
 
 ---
 
-## ◼ What I Build Well
+## ░░ What I Build
 
 - Secure authentication & RBAC systems  
-- Backend services with explicit, stable contracts  
-- Scalable and normalized data models  
-- APIs designed for longevity  
+- Backend services with explicit contracts  
+- Scalable, normalized data models  
+- Performance-aware APIs  
 - Systems that fail safely and observably  
 
-I enjoy working where:
-- failures are expensive  
-- correctness matters  
-- design decisions compound over time  
+I enjoy working close to request lifecycles, data consistency, failure scenarios, and operational behavior.
 
 ---
 
-## ◼ Current Direction
+## ░░ Current Direction
 
 <div align="center">
 
@@ -138,33 +120,30 @@ I enjoy working where:
 
 </div>
 
-Currently deepening:
-- backend architecture fundamentals  
-- system design reasoning  
-- practical AI/ML integration (no demos, only value)
+Currently strengthening backend architecture fundamentals, system design thinking, and practical AI/ML integration beyond demos.
 
 ---
 
-## ◼ Engineering Principles
+## ░░ Engineering Principles
 
 <div align="center">
 
 <pre>
-Simple          →   Clever
-Correct         →   Fast
-Explicit        →   Implicit
-Maintainable   →   Impressive
+Simple        > Clever
+Correct       > Fast
+Explicit      > Implicit
+Maintainable  > Impressive
 </pre>
 
 </div>
 
 ---
 
-## ◼ Connect
+## ░░ Connect
 
 <div align="center">
 
-
+[GitHub](https://github.com/Abhishekh3007) ·
 [LinkedIn](https://www.linkedin.com/in/abhishek-wali-0628b027b/) ·
 [Email](mailto:waliabhishek120@gmail.com)
 
@@ -172,10 +151,7 @@ Maintainable   →   Impressive
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-
-<sub>
-Build software that still makes sense months later — not just demos that look good today.
-</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=120&section=footer&text=Build%20Software%20That%20Lasts&fontSize=24&fontColor=ffffff"/>
 </div>
