@@ -63,17 +63,14 @@ I am comfortable operating at:
 <div align="center">
 
 <pre>
-Languages        JavaScript · TypeScript · Python · SQL
-
-Frontend         React · Next.js
-
-Backend          Node.js · Express · REST APIs
-
-Data             MongoDB · PostgreSQL · Supabase
-
-Infrastructure   AWS · Vercel
-
-Tooling          Git · Docker · Linux · Postman
+────────────────────────────────────────────
+  Languages        : JavaScript · TypeScript · Python · SQL
+  Frontend         : React · Next.js
+  Backend          : Node.js · Express · REST APIs
+  Data             : MongoDB · PostgreSQL · Supabase
+  Infrastructure   : AWS · Vercel
+  Tooling          : Git · Docker · Linux · Postman
+────────────────────────────────────────────
 </pre>
 
 </div>
@@ -152,16 +149,18 @@ Currently deepening:
 
 ## ◼ Engineering Principles
 
+
 <div align="center">
 
 <pre>
-Simple        > Clever
-Correct       > Fast
-Explicit      > Implicit
-Maintainable  > Impressive
+  Simple          →   Clever
+  Correct         →   Fast
+  Explicit        →   Implicit
+  Maintainable   →   Impressive
 </pre>
 
 </div>
+
 
 ---
 
