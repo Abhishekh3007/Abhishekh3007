@@ -1,26 +1,26 @@
 # Abhishek Wali  
-**Full-Stack Developer · Backend-Focused · System Thinker**
+**Software Engineer · Backend-Oriented · Full-Stack Capable**
 
-I build software that is clean, scalable, and boring in the best possible way.
-
----
-
-## Who Am I?
-
-I’m a developer who enjoys designing systems more than chasing frameworks.  
-I care about **clarity**, **performance**, and **code that ages well**.
-
-- 🎓 MCA Graduate & Software Developer  
-- ⚙️ Backend-first, full-stack capable  
-- 🧠 Interested in system design, APIs, and data flow  
-- 🚀 Exploring AI/ML in practical, production-ready use cases  
-- ☕ Debugs best with coffee and silence
-
-> *Good software is built twice — once in the head, once in the editor.*
+I design and build software systems that prioritize correctness, clarity, and long-term maintainability.
 
 ---
 
-## Toolbox
+## Profile
+
+I am a backend-focused engineer with full-stack experience, comfortable working close to data, APIs, and system boundaries.  
+My approach emphasizes **simple solutions**, **clear abstractions**, and **engineering discipline** over trends.
+
+- 🎓 MCA Graduate  
+- ⚙️ Backend-first mindset with end-to-end ownership  
+- 🧠 Strong interest in system design and data flow  
+- 🚀 Applying AI/ML where it adds measurable value  
+- ☕ Calm, methodical problem solver
+
+> *“Simplicity is the ultimate sophistication.”*
+
+---
+
+## Technical Competency
 
 **Languages**  
 `JavaScript` · `TypeScript` · `Python` · `SQL`
@@ -29,49 +29,30 @@ I care about **clarity**, **performance**, and **code that ages well**.
 `React` · `Next.js`
 
 **Backend**  
-`Node.js` · `Express` · `REST APIs`
+`Node.js` · `Express` · `RESTful APIs`
 
-**Data & Cloud**  
+**Data & Infrastructure**  
 `MongoDB` · `PostgreSQL` · `Supabase` · `AWS` · `Vercel`
 
-**Utilities**  
+**Engineering Tools**  
 `Git` · `Docker` · `Postman` · `Linux`
 
 ---
 
-## What I Like Building
+## Engineering Focus
 
-- 🔐 Secure authentication & RBAC systems  
-- ⚡ Performant APIs and backend services  
-- 🧱 Clean architecture with clear boundaries  
-- 📊 Data-driven applications with real users  
-- 🧪 Systems that fail gracefully
+- Secure authentication & authorization (RBAC)
+- Scalable backend architectures
+- API design and performance optimization
+- Data modeling and consistency
+- Reliability, observability, and graceful failure
 
 ---
 
-## Current Focus
+## Current Direction
 
 ```txt
-Design better systems
-↓
-Write less but better code
-↓
-Ship reliable software
-
----
-
-### Why this hits the right balance
-
-- Creative, but **not flashy**
-- Shows **engineering maturity**
-- Strong backend + system design signal
-- Memorable without being gimmicky
-- Perfect for recruiters, seniors, and founders
-
-If you want next:
-- **Ultra-minimal one-screen README**
-- **Senior backend engineer tone**
-- **AI/ML-focused identity**
-- **Open-source contributor style**
-
-Just say the word.
+Understand the problem deeply
+→ design the system
+→ implement with precision
+→ iterate with intent
