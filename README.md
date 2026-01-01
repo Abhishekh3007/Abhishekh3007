@@ -63,21 +63,19 @@ I am comfortable operating at:
 <div align="center">
 
 <pre>
-────────────────────────────────────────────
-  Languages        : JavaScript · TypeScript · Python · SQL
-  Frontend         : React · Next.js
-  Backend          : Node.js · Express · REST APIs
-  Data             : MongoDB · PostgreSQL · Supabase
-  Infrastructure   : AWS · Vercel
-  Tooling          : Git · Docker · Linux · Postman
-────────────────────────────────────────────
+Languages        : JavaScript · TypeScript · Python · SQL
+Frontend         : React · Next.js
+Backend          : Node.js · Express · REST APIs
+Data             : MongoDB · PostgreSQL · Supabase
+Infrastructure   : AWS · Vercel
+Tooling          : Git · Docker · Linux · Postman
 </pre>
 
 </div>
 
 ---
 
-## ◼ How I Think (This Is the Work)
+## ◼ System Thinking (How I Work)
 
 <div align="center">
 
@@ -116,8 +114,8 @@ I optimize for **understanding first**, performance second.
 ## ◼ What I Build Well
 
 - Secure authentication & RBAC systems  
-- Backend services with explicit contracts  
-- Scalable, normalized data models  
+- Backend services with explicit, stable contracts  
+- Scalable and normalized data models  
 - APIs designed for longevity  
 - Systems that fail safely and observably  
 
@@ -149,18 +147,16 @@ Currently deepening:
 
 ## ◼ Engineering Principles
 
-
 <div align="center">
 
 <pre>
-  Simple          →   Clever
-  Correct         →   Fast
-  Explicit        →   Implicit
-  Maintainable   →   Impressive
+Simple          →   Clever
+Correct         →   Fast
+Explicit        →   Implicit
+Maintainable   →   Impressive
 </pre>
 
 </div>
-
 
 ---
 
@@ -168,7 +164,7 @@ Currently deepening:
 
 <div align="center">
 
-[GitHub](https://github.com/Abhishekh3007) ·
+
 [LinkedIn](https://www.linkedin.com/in/abhishek-wali-0628b027b/) ·
 [Email](mailto:waliabhishek120@gmail.com)
 
