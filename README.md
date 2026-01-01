@@ -1,114 +1,131 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Wali&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend-Oriented%20Software%20Engineer%20•%20System%20Thinker&descAlignY=65" />
-  
-  <br />
+<!-- ===================================================== -->
+<!--                   README.md                          -->
+<!-- ===================================================== -->
 
-  <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+<div align="center">
+
+<svg width="520" height="120" viewBox="0 0 520 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a11cb"/>
+      <stop offset="100%" stop-color="#2575fc"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="55%" text-anchor="middle"
+        fill="url(#g1)"
+        font-size="42"
+        font-family="monospace"
+        font-weight="700">
+    Abhishek Wali
+  </text>
+  <text x="50%" y="80%" text-anchor="middle"
+        fill="#9aa4b2"
+        font-size="14"
+        font-family="monospace">
+    Backend-Oriented Software Engineer · System Thinker
+  </text>
+</svg>
+
 </div>
 
 ---
 
-<!-- ===================== TAGLINE ===================== -->
 <div align="center">
 
-### 🧠 Engineering with Depth, Not Noise
-
-<sub>
-I design and build software systems that are predictable, scalable, and built to survive real-world complexity.
-</sub>
+> **I design software the way engineers read it — slowly, clearly, and with intent.**
 
 </div>
 
 ---
 
-<!-- ===================== PROFILE CARD ===================== -->
+## ◼ Profile
+
+I am a backend-focused software engineer with full-stack capability, oriented toward **systems, data flow, and long-term correctness**.  
+I prioritize **clarity over cleverness** and build software meant to survive real users, real load, and real time.
+
+I am comfortable operating at:
+- the API boundary  
+- the data layer  
+- the system-design level  
+
+> *Engineering maturity is knowing what to leave out.*
+
+---
+
+## ◼ Technical Foundation
+
 <div align="center">
 
 <pre>
-┌──────────────────────────────────────────┐
-│  ROLE        : Software Engineer          │
-│  FOCUS       : Backend & System Design    │
-│  APPROACH    : Clarity > Cleverness       │
-│  MOTTO       : Build once. Maintain long. │
-└──────────────────────────────────────────┘
+Languages        JavaScript · TypeScript · Python · SQL
+
+Frontend         React · Next.js
+
+Backend          Node.js · Express · REST APIs
+
+Data             MongoDB · PostgreSQL · Supabase
+
+Infrastructure   AWS · Vercel
+
+Tooling          Git · Docker · Linux · Postman
 </pre>
 
 </div>
 
 ---
 
-## ░░ About Me
-
-I am a backend-focused engineer with full-stack capability, comfortable working across **data models, APIs, and system boundaries**.  
-I value software that remains **readable under pressure**, **correct under scale**, and **maintainable over time**.
-
-- 🎓 MCA Graduate  
-- ⚙️ Backend-first mindset with end-to-end ownership  
-- 🧱 Strong interest in architecture & trade-offs  
-- 🚀 Applying AI/ML only where it adds real value  
-- ☕ Calm, methodical, detail-oriented  
-
-> *Engineering maturity is knowing what not to build.*
-
----
-
-## ░░ Tech Stack (Used with Intent)
-
-### Languages
-`JavaScript` · `TypeScript` · `Python` · `SQL`
-
-### Frontend
-`React` · `Next.js`
-
-### Backend
-`Node.js` · `Express` · `REST APIs`
-
-### Data & Infrastructure
-`MongoDB` · `PostgreSQL` · `Supabase` · `AWS` · `Vercel`
-
-### Engineering Tools
-`Git` · `Docker` · `Linux` · `Postman`
-
----
-
-## ░░ System Thinking
+## ◼ How I Think (This Is the Work)
 
 <div align="center">
 
 <pre>
-Problem
-  ↓
-Constraints
-  ↓
-System Design
-  ↓
-Data Model
-  ↓
-API Contracts
-  ↓
-Implementation
+┌───────────────┐
+│   Problem     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ Constraints   │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ System Design │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ Data Model    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ API Contracts │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ Implementation│
+└───────────────┘
 </pre>
 
 </div>
 
-I optimize for **long-term stability**, not short-term velocity.
+I optimize for **understanding first**, performance second.
 
 ---
 
-## ░░ What I Build
+## ◼ What I Build Well
 
 - Secure authentication & RBAC systems  
 - Backend services with explicit contracts  
 - Scalable, normalized data models  
-- Performance-aware APIs  
+- APIs designed for longevity  
 - Systems that fail safely and observably  
 
-I enjoy working close to request lifecycles, data consistency, failure scenarios, and operational behavior.
+I enjoy working where:
+- failures are expensive  
+- correctness matters  
+- design decisions compound over time  
 
 ---
 
-## ░░ Current Direction
+## ◼ Current Direction
 
 <div align="center">
 
@@ -120,11 +137,14 @@ I enjoy working close to request lifecycles, data consistency, failure scenarios
 
 </div>
 
-Currently strengthening backend architecture fundamentals, system design thinking, and practical AI/ML integration beyond demos.
+Currently deepening:
+- backend architecture fundamentals  
+- system design reasoning  
+- practical AI/ML integration (no demos, only value)
 
 ---
 
-## ░░ Engineering Principles
+## ◼ Engineering Principles
 
 <div align="center">
 
@@ -139,7 +159,7 @@ Maintainable  > Impressive
 
 ---
 
-## ░░ Connect
+## ◼ Connect
 
 <div align="center">
 
@@ -151,7 +171,10 @@ Maintainable  > Impressive
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=120&section=footer&text=Build%20Software%20That%20Lasts&fontSize=24&fontColor=ffffff"/>
+
+<sub>
+Build software that still makes sense months later — not just demos that look good today.
+</sub>
+
 </div>
