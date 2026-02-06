@@ -79,7 +79,7 @@ The commit history is boring. The uptime isn't.
 
 If you care about systems that last longer than the sprint they were built in:
 
-**LinkedIn** — [abhishek-wali](https://www.linkedin.com/in/abhishek-wali-0628b027b/)  
+
 **Email** — waliabhishek120@gmail.com
 
 ---
