@@ -1,109 +1,89 @@
 # Abhishek Wali
 
-Backend-oriented software engineer who values clarity, correctness, and long-term maintainability over hype and shortcuts.
-
-I build systems that are easy to reason about, scale predictably, and remain readable months after deployment.
+Software engineer. I build things that work — and keep working.
 
 ---
 
-## About
-
-I am an MCA graduate with a backend-first mindset and full-stack working experience.  
-My approach to software is deliberate: understand the problem deeply, design with constraints in mind, and implement with discipline.
-
-I prefer:
-- Explicit systems over clever abstractions  
-- Boring, proven solutions over trendy ones  
-- Code that explains itself without comments  
-
-I care about how software behaves **under load, during failure, and over time**.
+> *"The best code is the code nobody talks about in a production incident."*
 
 ---
 
-## What I Work On
+## The Short Version
 
-- Backend services and REST APIs  
-- Authentication, authorization, and role-based access  
-- Data modeling and schema design  
-- System boundaries and service contracts  
-- Reliability, consistency, and failure handling  
+MCA graduate. Software engineer with full-stack experience and a bias toward getting things right.
 
-I enjoy working close to the request lifecycle, database behavior, and operational trade-offs.
+I don't chase trends. I chase correctness. My code won't impress you at a glance — it'll impress you six months later when nothing has broken and the new developer onboarded in a day.
 
 ---
 
-## Tech Stack
+## What Gets My Attention
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- SQL
+The parts of software most people skip past:
 
-**Backend**
-- Node.js
-- Express
-- RESTful APIs
+- How a feature behaves under real traffic  
+- What happens when two things happen at the same time  
+- The edge cases nobody writes tests for — until they're bugs  
+- How a system ages after the team that built it moves on  
 
-**Frontend**
-- React
-- Next.js
-
-**Databases & Infrastructure**
-- MongoDB
-- PostgreSQL
-- Supabase
-- AWS
-- Vercel
-
-**Engineering Tools**
-- Git
-- Docker
-- Linux
-- Postman
+I care about the full picture — from the UI a user touches to the database row it lands in.
 
 ---
 
-## How I Think About Systems
+## Tools I Reach For
 
-I optimize for software that:
-- Is easy to maintain
-- Fails safely
-- Can be extended without fear
+| Layer | Stack |
+|---|---|
+| Languages | TypeScript · JavaScript · Python · SQL |
+| Backend | Node.js · Express · REST APIs |
+| Frontend | React · Next.js |
+| Data | PostgreSQL · MongoDB · Supabase |
+| Infra | AWS · Vercel · Docker · Linux |
+| Workflow | Git · Postman |
 
----
-
-## Engineering Principles
-
-- Simple > Clever  
-- Correct > Fast  
-- Explicit > Implicit  
-- Maintainable > Impressive  
-
-Good engineering is often invisible.
+I pick the tool that fits the constraint, not the one with the best landing page.
 
 ---
 
-## Activity
+## How I Build
 
-I focus on **real projects and long-running systems**, not one-off demos.  
-Consistency matters more than streaks.
+Four rules. No exceptions.
 
----
+```
+Simple    over   Clever
+Correct   over   Fast
+Explicit  over   Implicit
+Boring    over   Impressive
+```
 
-## Current Focus
-
-- Strengthening backend architecture fundamentals  
-- Improving system design decision-making  
-- Applying AI/ML only where it provides measurable value  
-
----
-
-## Connect 
-- LinkedIn: https://www.linkedin.com/in/abhishek-wali-0628b027b/  
-- Email: waliabhishek120@gmail.com  
+If you can't explain the system on a whiteboard in five minutes, it's too complicated.
 
 ---
 
-*Build software that survives change.*
+## What I'm Working On Now
+
+- Strengthening how I think about architecture and trade-offs  
+- Getting better at knowing *when not to build*  
+- Applying AI/ML only where the ROI is real, not where it's trendy  
+
+---
+
+## A Note on Consistency
+
+I don't do side projects for GitHub streaks.  
+I build things that run, serve users, and survive change.  
+The commit history is boring. The uptime isn't.
+
+---
+
+## Let's Talk
+
+If you care about systems that last longer than the sprint they were built in:
+
+**LinkedIn** — [abhishek-wali](https://www.linkedin.com/in/abhishek-wali-0628b027b/)  
+**Email** — waliabhishek120@gmail.com
+
+---
+
+<sub>Build software that survives change. Then go outside.</sub>
 
 
