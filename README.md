@@ -33,7 +33,7 @@ I care about the full picture — from the UI a user touches to the database row
 
 | Layer | Stack |
 |---|---|
-| Languages | TypeScript · JavaScript · Python · SQL |
+| Languages | TypeScript · JavaScript · Java · SQL |
 | Backend | Node.js · Express · REST APIs |
 | Frontend | React · Next.js |
 | Data | PostgreSQL · MongoDB · Supabase |
