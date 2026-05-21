@@ -36,7 +36,7 @@ I care about the full picture — from the UI a user touches to the database row
 | Languages | TypeScript · JavaScript · Java · SQL |
 | Backend | Node.js · Express · REST APIs |
 | Frontend | React · Next.js |
-| Data | PostgreSQL · MongoDB · Supabase |
+| Data | PostgreSQL · Supabase |
 | Infra | AWS · Vercel · Docker · Linux |
 | Workflow | Git · Postman |
 
