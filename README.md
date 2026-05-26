@@ -10,7 +10,7 @@ Software engineer. I build things that work — and keep working.
 
 ## The Short Version
 
-MCA graduate. Software engineer with full-stack experience and a bias toward getting things right.
+ Software engineer with full-stack experience and a bias toward getting things right.
 
 I don't chase trends. I chase correctness. My code won't impress you at a glance — it'll impress you six months later when nothing has broken and the new developer onboarded in a day.
 
