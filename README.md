@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Abhishekh</h1>
-<h3 align="center">Software Engineer & Mentor · Belgaum, India 🇮🇳</h3>
+<h3 align="center">Software Engineer & Mentor · </h3>
 
 <p align="center">
   I build production-grade apps, integrate AI/LLM pipelines, and mentor engineers who are just getting started.<br/>
-  Currently shipping internal automation tools and leading R&D at Dlithe Consultancy.
+  Currently shipping internal automation tools and leading R&D Projects.
 </p>
 
 <p align="center">
