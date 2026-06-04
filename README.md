@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Abhishekh</h1>
-<h3 align="center">Software Engineer & Mentor · </h3>
+<h3 align="center">Software Engineer & Mentor · Belgaum, India 🇮🇳</h3>
 
 <p align="center">
   I build production-grade apps, integrate AI/LLM pipelines, and mentor engineers who are just getting started.<br/>
-  Currently shipping internal automation tools and leading R&D Projects.
+  Currently shipping internal automation tools and leading R&D at Dlithe Consultancy.
 </p>
 
 <p align="center">
@@ -85,7 +85,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhishekh3007&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="160" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekh3007&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekh3007&theme=tokyonight" height="160" alt="Most Used Languages by Commit" />
 </p>
 
 ---
