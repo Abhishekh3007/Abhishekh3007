@@ -1,79 +1,91 @@
-```
-╔══════════════════════════════════════════════════════════╗
-║             abhishek@wali:~$  whoami                     ║
-╚══════════════════════════════════════════════════════════╝
-```
+<h1 align="center">Hey 👋, I'm Abhishekh</h1>
+<h3 align="center">Software Engineer & Mentor · Belgaum, India 🇮🇳</h3>
 
-# Abhishek Wali
+<p align="center">
+  I build production-grade apps, integrate AI/LLM pipelines, and mentor engineers who are just getting started.<br/>
+  Currently shipping internal automation tools and leading R&D at Dlithe Consultancy.
+</p>
 
-> *"The best code is the code nobody talks about in a production incident."*
-
-Software engineer with full-stack experience and a bias toward getting things right.
-My code won't impress you at a glance — it'll impress you six months later when nothing has broken and the new developer onboarded in a day.
-
----
-
-## `$ cat philosophy.txt`
-
-```
-Simple    over   Clever
-Correct   over   Fast
-Explicit  over   Implicit
-Boring    over   Impressive
-```
-
-> If you can't explain the system on a whiteboard in five minutes, it's too complicated.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-wali-0628a524b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Abhishek_wali/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" height="28" alt="LeetCode" /></a>&nbsp;
+  <a href="https://abhishek-portfolio-ypjv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" height="28" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:waliabhishek120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+</p>
 
 ---
 
-## `$ ls stack/`
+## 🛠️ Tech stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" alt="Java, JavaScript, TypeScript, Python" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
 
-## `$ git log --stat`
+**Frontend**
 
-```
-what I actually care about:
-├─ how a feature behaves under real traffic
-├─ what happens when two things happen at the same time
-├─ edge cases nobody writes tests for — until they're bugs
-└─ how a system ages after the team that built it moves on
-```
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
 
----
+**Backend**
 
-## `$ cat focus.md`
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" />&nbsp;<img src="https://img.shields.io/badge/BullMQ-CC0000?style=plastic&logo=redis&logoColor=white" height="48" alt="BullMQ" />
 
-```diff
-+ strengthening architecture thinking and trade-off reasoning
-+ getting better at knowing when NOT to build
-+ applying AI/ML only where the ROI is real, not where it's trendy
-```
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="MongoDB, PostgreSQL, Redis" />
+
+**Cloud & Services**
+
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />&nbsp;<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" height="48" alt="Supabase" />
+
+**DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,postman" alt="Docker, GitHub Actions, Git, Linux, Postman" />
+
+**AI & LLM**
+
+<img src="https://img.shields.io/badge/GPT-412991?style=plastic&logo=openai&logoColor=white" height="48" alt="GPT" />&nbsp;<img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" height="48" alt="Claude" />&nbsp;<img src="https://img.shields.io/badge/LLM%20Pipelines-6366F1?style=plastic&logoColor=white" height="48" alt="LLM Pipelines" />
 
 ---
 
-## `$ ./contact.sh`
+## 📅 Hobbies
 
-```
-channel   →  email
-address   →  waliabhishek120@gmail.com
-topic     →  systems that last longer than the sprint they were built in
-```
+- Grind DSA problems on LeetCode
+- Build side projects for fun (and sometimes profit)
+- Watch cricket and stay up way too late during match nights
+- Read tech blogs and occasionally write my own notes
+- Tinker with computer vision experiments
+- etc...
 
 ---
 
-<sub>Build software that survives change. Then go outside.</sub>
+## 💻 Current projects
+
+- **CodeClarity** [WIP] — AI-powered code review platform
+  - GitHub OAuth + repo file extraction
+  - Async review pipeline via BullMQ + Redis
+  - LLM scoring engine (0–100 per file)
+  - Auto PR bot that posts inline comments on GitHub
+- **SmartDine** — QR-based digital menu system *(live)*
+  - Real-time menu updates via QR codes
+  - Role-based ordering workflows
+  - Multi-restaurant support
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekh3007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Abhishekh3007&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="160" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekh3007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="140" alt="Top Languages" />
+</p>
+
+---
+
+## 🎵 Spotify status
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xz2th6cvc4xkqgx3ld2jdvuifq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
