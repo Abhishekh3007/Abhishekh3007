@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Abhishekh</h1>
-<h3 align="center">Software Engineer & Mentor · </h3>
+<h3 align="center">Software Engineer & Mentor · Belgaum, India 🇮🇳</h3>
 
 <p align="center">
   I build production-grade apps, integrate AI/LLM pipelines, and mentor engineers who are just getting started.<br/>
-  Currently shipping internal automation tools and leading R&D Projects.
+  Currently shipping internal automation tools and leading R&D at Dlithe Consultancy.
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" />&nbsp;<img src="https://img.shields.io/badge/BullMQ-CC0000?style=plastic&logo=redis&logoColor=white" height="48" alt="BullMQ" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="MongoDB, PostgreSQL, Redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" />
 
 **Cloud & Services**
 
@@ -62,13 +62,15 @@
 
 - **CodeClarity** [WIP] — AI-powered code review platform
   - GitHub OAuth + repo file extraction
-  - Async review pipeline via BullMQ + Redis
+  - Async review pipeline with job queues
   - LLM scoring engine (0–100 per file)
   - Auto PR bot that posts inline comments on GitHub
-- **SmartDine** — QR-based digital menu system *(live)*
-  - Real-time menu updates via QR codes
-  - Role-based ordering workflows
-  - Multi-restaurant support
+- **Customer Segmentation Enhancement** — Production-ready RFM + ML segmentation system
+  - Gaussian Mixture Models with BIC-based optimal cluster selection
+  - Advanced feature engineering: Customer Lifecycle Analysis, Product Diversity Index, Temporal Behavioral Patterns
+  - 4 business personas: VIP Champions, Hibernating Customers, Potential Loyalists, New Promising Customers
+  - REST API (FastAPI) with batch processing, model monitoring & automated retraining
+  - Dockerized deployment with data drift detection
 
 ---
 
