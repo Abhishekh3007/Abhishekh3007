@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-wali-0628a524b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>&nbsp;
   <a href="https://leetcode.com/u/Abhishek_wali/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" height="28" alt="LeetCode" /></a>&nbsp;
-  <a href="https://abhishek-portfolio-ypjv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" height="28" alt="Portfolio" /></a>&nbsp;
+  <a href="https://abhishekh-wali-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" height="28" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:waliabhishek120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
 </p>
 
