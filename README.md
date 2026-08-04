@@ -6,7 +6,7 @@
 > whoami
 
 Software Engineer
-Backend Developer
+Full Stack Developer
 AI Enthusiast
 Mentor
 
@@ -125,29 +125,7 @@ Exploring..............LLMs & Agents
 
 ---
 
-# GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekh3007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekh3007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhishekh3007&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekh3007&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # Philosophy
 
