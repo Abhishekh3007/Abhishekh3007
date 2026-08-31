@@ -1,128 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E293B,100:2563EB&height=150&section=header&text=ABHISHEK%20WALI&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descColor=BFDBFE&descAlignY=64"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=1600&color=60A5FA&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEER;FULL-STACK+DEVELOPER;BUILDING+WITH+AI+%26+LLMs" alt="Role"/>
+
+# ABHISHEK WALI
+
+**Software Engineer · Full-Stack Developer · AI**
+
+Building software with a focus on **backend systems, useful products, and AI-powered developer tools.**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Build.+Ship.+Learn.+Repeat.;Exploring+AI+%26+LLMs.;Designing+systems+that+scale." alt="Typing"/>
-
-<br><br>
-
 <a href="https://github.com/Abhishekh3007">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=F8FAFC"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
 </a>
 <a href="https://www.linkedin.com/in/abhishek-wali-0628a524b">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 <a href="https://abhishekh-wali-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=BFDBFE"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=E2E8F0"/>
 </a>
-<a href="mailto:waliabhishek120@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=60A5FA"/>
+<a href="https://leetcode.com/u/Abhishek_wali/">
+<img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=F59E0B"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- ABOUT -->
+---
+
+<div align="center">
+
+`CODE`    `SYSTEMS`    `AI`    `LEARNING`
+
+</div>
 
 ## About
 
-I'm a software engineer interested in building **reliable, scalable software**.
-
-My work sits around full-stack development, backend engineering, AI/LLMs, system design, and developer tools.
-
 ```text
-Currently → Building • Learning • Experimenting
+I like building things that are simple to use,
+reliable in production, and interesting under the hood.
 ```
 
----
+My work spans **full-stack development, backend engineering, databases, system design, and AI/LLM applications**.
 
-<!-- STACK -->
-
-## Tech Stack
-
-| Area          | Technologies                                   |
-| ------------- | ---------------------------------------------- |
-| **Languages** | Java · JavaScript · TypeScript · Python · SQL  |
-| **Frontend**  | React · HTML · CSS                             |
-| **Backend**   | Node.js · Express                              |
-| **Database**  | PostgreSQL · MongoDB · Supabase                |
-| **Tools**     | Git · GitHub · Docker · Linux · GitHub Actions |
+I'm particularly interested in understanding **how systems work**, improving them, and turning ideas into software that people can actually use.
 
 ---
 
-<!-- CURRENT PROJECT -->
+## Stack
 
-## Currently Building
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+
+`Java` `JavaScript` `TypeScript`
+`Python` `SQL`
+
+### Frontend
+
+`React` `HTML` `CSS`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Backend
+
+`Node.js` `Express`
+
+### Data & Infrastructure
+
+`PostgreSQL` `MongoDB` `Supabase`
+`Docker` `Linux` `Git` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Project
+
+<div align="center">
 
 ### CodeClarity
 
-An **AI-powered code review platform** designed to make code analysis and developer feedback more useful.
-
-`AI` `LLMs` `Full-Stack` `Developer Tools`
-
----
-
-<!-- LIFE LENS -->
-
-## Life Lens 🌿
-
-Outside of code, I like documenting places, light, and small moments.
-
-**[@storiesthroughlenses_30](https://www.instagram.com/storiesthroughlenses_30/)**
-*Capturing moments through lenses | Nature & Frames* 📸
-
----
-
-<!-- STATS -->
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishekh3007&show_icons=true&hide_border=true&bg_color=111827&title_color=F8FAFC&text_color=CBD5E1&icon_color=60A5FA&ring_color=60A5FA&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekh3007&layout=compact&hide_border=true&bg_color=111827&title_color=F8FAFC&text_color=CBD5E1&icon_color=60A5FA&langs_count=8"/>
+**AI-powered code review & developer feedback**
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Abhishekh3007&hide_border=true&background=111827&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"/>
+A developer-focused platform built around **code analysis, AI-assisted reviews, and actionable feedback** — with the goal of making code quality easier to understand and improve.
+
+<br>
+
+`AI`   `LLMs`   `Developer Tools`   `Full-Stack`
 
 </div>
 
+<br>
+
 ---
 
-<!-- CONNECT -->
+## What I'm Working On
 
-## Connect
+| Area            | Focus                                             |
+| --------------- | ------------------------------------------------- |
+| **Engineering** | Building reliable, maintainable applications      |
+| **Backend**     | APIs, architecture, databases & system design     |
+| **AI**          | LLM-powered features and practical AI products    |
+| **Learning**    | DSA, distributed systems & better software design |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Abhishekh3007">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
-</a>
-<a href="https://www.linkedin.com/in/abhishek-wali-0628a524b">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-<a href="https://leetcode.com/u/Abhishek_wali/">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=F59E0B"/>
-</a>
-<a href="https://www.instagram.com/storiesthroughlenses_30/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E879F9"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishekh3007&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=94A3B8&icon_color=60A5FA&ring_color=60A5FA&include_all_commits=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekh3007&layout=compact&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=94A3B8&langs_count=7"/>
 
 <br><br>
 
-`online` · `building` · `learning`
+<img src="https://streak-stats.demolab.com?user=Abhishekh3007&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"/>
 
 </div>
 
-<br>
+---
+
+## Beyond Code
+
+Photography is another way I like to slow down and pay attention to details.
+
+**[Stories Through Lenses](https://www.instagram.com/storiesthroughlenses_30/)**
+`Nature` · `Places` · `Frames`
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:111827&height=80&section=footer"/>
+### Build → Break → Learn → Build Better
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishekh3007&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
